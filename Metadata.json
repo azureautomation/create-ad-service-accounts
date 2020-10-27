@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel \u00d6rneling",
+    "ContentSize": 1793,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-ad-service-accounts/master/CreateADSvcAccount.ps1",
+    "DownloadCount": 872,
+    "Id": "Create-AD-service-accounts-55c4cd1d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 398,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-11-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "With this runbook you will be able to automatically create service accounts in your on-prem AD. Just fill in the details highlighted in the script and then you are ready to execute the runbook. See my blog post at http://wp.me/p5vjxs-4vE for a complete setup guide.",
+    "Title": "Create AD service accounts",
+    "UpdatedDate": "2015-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/create-ad-service-accounts",
+    "UserTags": "Azure, Microsoft Azure, Automation"
+}
